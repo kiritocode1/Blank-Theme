@@ -14,30 +14,31 @@
 			{
 				"label": "Blank Moonlight",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Blank-Moonlight.json"
+				"path": "./vscode-themes/Blank-Moonlight.json"
 			},
 			{
 				"label": "Blank Monochrome",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Blank-Monochrome.json"
+				"path": "./vscode-themes/Blank-Monochrome.json"
 			},
 			{
 				"label": "Blank Ghibli",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Blank-Ghibli.json"
+				"path": "./vscode-themes/Blank-Ghibli.json"
 			},
 			{
 				"label": "Blank Uchiha",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Blank-Uchiha.json"
+				"path": "./vscode-themes/Blank-Uchiha.json"
 			}
 		]
 	},
 	"scripts": {
-		"package": "vsce package"
+		"package": "vsce package",
+		"publish:ovsx": "ovsx publish"
 	},
 	"devDependencies": {
-
+		"ovsx": "^0.8.0"
 	},
 	"repository": {
 		"type": "git",

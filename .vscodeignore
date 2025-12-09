@@ -3,4 +3,5 @@
 .gitignore
 vsc-extension-quickstart.md
 zed/** 
+zed-themes/** */
 neovim/**

@@ -1,0 +1,89 @@
+{
+    "name": "Blank Ghibli",
+    "author": "kiritocode1",
+    "themes": [
+        {
+            "name": "Blank Ghibli",
+            "appearance": "dark",
+            "style": {
+                "border": "#817c9c26",
+                "players": [
+                    {
+                        "cursor": "#5c87a4",
+                        "selection": "#817c9c26"
+                    }
+                ],
+                "syntax": {
+                    "comment": {
+                        "color": "#43444D",
+                        "font_style": "italic"
+                    },
+                    "constant": {
+                        "color": "#a27e57",
+                        "font_style": null
+                    },
+                    "tag": {
+                        "color": "#5c87a4",
+                        "font_style": null
+                    },
+                    "type": {
+                        "color": "#5c87a4",
+                        "font_style": null
+                    },
+                    "attribute": {
+                        "color": "#e8b246",
+                        "font_style": "italic"
+                    },
+                    "keyword": {
+                        "color": "#648f68",
+                        "font_style": null
+                    },
+                    "string": {
+                        "color": "#da674b",
+                        "font_style": null
+                    },
+                    "function": {
+                        "color": "#829fa7",
+                        "font_style": "italic"
+                    },
+                    "variable": {
+                        "color": "#e8b246",
+                        "font_style": null
+                    },
+                    "property": {
+                        "color": "#e8b246",
+                        "font_style": null
+                    }
+                },
+                "background": "#000000",
+                "editor.background": "#000000",
+                "panel.background": "#000000",
+                "status_bar.background": "#000000",
+                "title_bar.background": "#0F1014",
+                "terminal.background": "#000000",
+                "text.primary": "#868690",
+                "text.muted": "#575861",
+                "link_text.hover": "#e8b246e6",
+                "git.created": "#5c87a4",
+                "git.modified": "#a27e57",
+                "git.deleted": "#575861",
+                "terminal.ansi.black": "#131317",
+                "terminal.ansi.red": "#829fa7",
+                "terminal.ansi.green": "#648f68",
+                "terminal.ansi.yellow": "#da674b",
+                "terminal.ansi.blue": "#5c87a4",
+                "terminal.ansi.magenta": "#e8b246",
+                "terminal.ansi.cyan": "#a27e57",
+                "terminal.ansi.white": "#868690",
+                "terminal.ansi.bright_black": "#575861",
+                "terminal.ansi.bright_red": "#e8b246",
+                "terminal.ansi.bright_green": "#648f68",
+                "terminal.ansi.bright_yellow": "#da674b",
+                "terminal.ansi.bright_blue": "#5c87a4",
+                "terminal.ansi.bright_magenta": "#829fa7",
+                "terminal.ansi.bright_cyan": "#a27e57",
+                "terminal.ansi.bright_white": "#868690"
+            }
+        }
+    ]
+}

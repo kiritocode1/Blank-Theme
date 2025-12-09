@@ -1,0 +1,89 @@
+{
+    "name": "Blank Monochrome",
+    "author": "kiritocode1",
+    "themes": [
+        {
+            "name": "Blank Monochrome",
+            "appearance": "dark",
+            "style": {
+                "border": "#817c9c26",
+                "players": [
+                    {
+                        "cursor": "#7C829D",
+                        "selection": "#817c9c26"
+                    }
+                ],
+                "syntax": {
+                    "comment": {
+                        "color": "#43444D",
+                        "font_style": "italic"
+                    },
+                    "constant": {
+                        "color": "#B6BAC8",
+                        "font_style": null
+                    },
+                    "tag": {
+                        "color": "#7C829D",
+                        "font_style": null
+                    },
+                    "type": {
+                        "color": "#7C829D",
+                        "font_style": null
+                    },
+                    "attribute": {
+                        "color": "#E2E4ED",
+                        "font_style": "italic"
+                    },
+                    "keyword": {
+                        "color": "#626983",
+                        "font_style": null
+                    },
+                    "string": {
+                        "color": "#D3D5DE",
+                        "font_style": null
+                    },
+                    "function": {
+                        "color": "#999EB2",
+                        "font_style": "italic"
+                    },
+                    "variable": {
+                        "color": "#E2E4ED",
+                        "font_style": null
+                    },
+                    "property": {
+                        "color": "#E2E4ED",
+                        "font_style": null
+                    }
+                },
+                "background": "#000000",
+                "editor.background": "#000000",
+                "panel.background": "#000000",
+                "status_bar.background": "#000000",
+                "title_bar.background": "#0F1014",
+                "terminal.background": "#000000",
+                "text.primary": "#868690",
+                "text.muted": "#575861",
+                "link_text.hover": "#E2E4EDe6",
+                "git.created": "#7C829D",
+                "git.modified": "#B6BAC8",
+                "git.deleted": "#575861",
+                "terminal.ansi.black": "#131317",
+                "terminal.ansi.red": "#999EB2",
+                "terminal.ansi.green": "#626983",
+                "terminal.ansi.yellow": "#D3D5DE",
+                "terminal.ansi.blue": "#7C829D",
+                "terminal.ansi.magenta": "#E2E4ED",
+                "terminal.ansi.cyan": "#B6BAC8",
+                "terminal.ansi.white": "#868690",
+                "terminal.ansi.bright_black": "#575861",
+                "terminal.ansi.bright_red": "#999EB2",
+                "terminal.ansi.bright_green": "#626983",
+                "terminal.ansi.bright_yellow": "#D3D5DE",
+                "terminal.ansi.bright_blue": "#7C829D",
+                "terminal.ansi.bright_magenta": "#E2E4ED",
+                "terminal.ansi.bright_cyan": "#B6BAC8",
+                "terminal.ansi.bright_white": "#868690"
+            }
+        }
+    ]
+}

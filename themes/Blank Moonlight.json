@@ -1,0 +1,89 @@
+{
+    "name": "Blank Moonlight",
+    "author": "kiritocode1",
+    "themes": [
+        {
+            "name": "Blank Moonlight",
+            "appearance": "dark",
+            "style": {
+                "border": "#817c9c26",
+                "players": [
+                    {
+                        "cursor": "#c58fff",
+                        "selection": "#817c9c26"
+                    }
+                ],
+                "syntax": {
+                    "comment": {
+                        "color": "#43444D",
+                        "font_style": "italic"
+                    },
+                    "constant": {
+                        "color": "#ffbb88",
+                        "font_style": null
+                    },
+                    "tag": {
+                        "color": "#c58fff",
+                        "font_style": null
+                    },
+                    "type": {
+                        "color": "#c58fff",
+                        "font_style": null
+                    },
+                    "attribute": {
+                        "color": "#fdfdfe",
+                        "font_style": "italic"
+                    },
+                    "keyword": {
+                        "color": "#8eb6f5",
+                        "font_style": null
+                    },
+                    "string": {
+                        "color": "#9898a6",
+                        "font_style": null
+                    },
+                    "function": {
+                        "color": "#f58ee0",
+                        "font_style": "italic"
+                    },
+                    "variable": {
+                        "color": "#fdfdfe",
+                        "font_style": null
+                    },
+                    "property": {
+                        "color": "#fdfdfe",
+                        "font_style": null
+                    }
+                },
+                "background": "#000000",
+                "editor.background": "#000000",
+                "panel.background": "#000000",
+                "status_bar.background": "#000000",
+                "title_bar.background": "#0F1014",
+                "terminal.background": "#000000",
+                "text.primary": "#868690",
+                "text.muted": "#575861",
+                "link_text.hover": "#fdfdfee6",
+                "git.created": "#c58fff",
+                "git.modified": "#ffbb88",
+                "git.deleted": "#575861",
+                "terminal.ansi.black": "#131317",
+                "terminal.ansi.red": "#f58ee0",
+                "terminal.ansi.green": "#8eb6f5",
+                "terminal.ansi.yellow": "#9898a6",
+                "terminal.ansi.blue": "#c58fff",
+                "terminal.ansi.magenta": "#fdfdfe",
+                "terminal.ansi.cyan": "#ffbb88",
+                "terminal.ansi.white": "#868690",
+                "terminal.ansi.bright_black": "#575861",
+                "terminal.ansi.bright_red": "#f58ee0",
+                "terminal.ansi.bright_green": "#8eb6f5",
+                "terminal.ansi.bright_yellow": "#9898a6",
+                "terminal.ansi.bright_blue": "#c58fff",
+                "terminal.ansi.bright_magenta": "#fdfdfe",
+                "terminal.ansi.bright_cyan": "#ffbb88",
+                "terminal.ansi.bright_white": "#868690"
+            }
+        }
+    ]
+}
