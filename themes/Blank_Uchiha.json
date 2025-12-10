@@ -1,0 +1,150 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Blank Uchiha",
+  "author": "kiritocode1",
+  "themes": [
+    {
+      "name": "Blank Uchiha",
+      "appearance": "dark",
+      "style": {
+        "background": "#000000",
+        "editor.background": "#000000",
+        "editor.foreground": "#868686",
+        "elevated_surface.background": "#111111",
+        "surface.background": "#000000",
+        "panel.background": "#000000",
+        "terminal.background": "#000000",
+        "element.background": "#13131380",
+        "element.hover": "#81717114",
+        "element.active": "#81717126",
+        "element.selected": "#81717126",
+        "border": "#81717126",
+        "border.focused": "#81717126",
+        "border.selected": "#81717126",
+        "text": "#868686",
+        "text.muted": "#575757",
+        "text.placeholder": "#575757",
+        "text.accent": "#F0F0F0",
+        "icon": "#575757",
+        "icon.muted": "#868686",
+        "icon.accent": "#A33B45",
+        "status_bar.background": "#000000",
+        "title_bar.background": "#0F0F0F",
+        "title_bar.inactive_background": "#111111",
+        "tab_bar.background": "#0000",
+        "toolbar.background": "#0F0F0F",
+        "tab.active_background": "#81717114",
+        "tab.inactive_background": "#0000",
+        "editor.active_line.background": "#81717114",
+        "editor.highlighted_line.background": "#81717114",
+        "editor.line_number": "#575757",
+        "editor.active_line_number": "#868686",
+        "editor.invisible": "#434343",
+        "editor.wrap_guide": "#81717150",
+        "editor.active_wrap_guide": "#434343",
+        "editor.indent_guide": "#81717150",
+        "editor.indent_guide_active": "#434343",
+        "search.match_background": "#81717150",
+        "editor.document_highlight.read_background": "#81717126",
+        "editor.document_highlight.write_background": "#81717126",
+        "editor.document_highlight.bracket_background": "#0000",
+        "conflict": "#BD4450",
+        "created": "#8C3037",
+        "deleted": "#575757",
+        "modified": "#B87878",
+        "ignored": "#434343",
+        "renamed": "#A33B45",
+        "error": "#BD4450",
+        "warning": "#989898",
+        "info": "#8C3037",
+        "hint": "#575757",
+        "scrollbar.thumb.background": "#81717114",
+        "scrollbar.thumb.hover_background": "#81717126",
+        "scrollbar.track.background": "#000000",
+        "terminal.ansi.black": "#131313",
+        "terminal.ansi.red": "#BD4450",
+        "terminal.ansi.green": "#8eb6f5",
+        "terminal.ansi.yellow": "#989898",
+        "terminal.ansi.blue": "#8C3037",
+        "terminal.ansi.magenta": "#F0F0F0",
+        "terminal.ansi.cyan": "#B87878",
+        "terminal.ansi.white": "#868686",
+        "terminal.ansi.bright_black": "#575757",
+        "terminal.ansi.bright_red": "#BD4450",
+        "terminal.ansi.bright_green": "#A33B45",
+        "terminal.ansi.bright_yellow": "#989898",
+        "terminal.ansi.bright_blue": "#8C3037",
+        "terminal.ansi.bright_magenta": "#F0F0F0",
+        "terminal.ansi.bright_cyan": "#A33B45",
+        "terminal.ansi.bright_white": "#868686",
+        "syntax": {
+          "comment": {
+            "color": "#253037",
+            "font_style": "italic"
+          },
+          "constant": {
+            "color": "#A33B45"
+          },
+          "number": {
+            "color": "#B87878"
+          },
+          "boolean": {
+            "color": "#B87878"
+          },
+          "string.escape": {
+            "color": "#B87878"
+          },
+          "function": {
+            "color": "#B87878"
+          },
+          "type": {
+            "color": "#8C3037"
+          },
+          "tag": {
+            "color": "#8C3037"
+          },
+          "attribute": {
+            "color": "#B1BAC9",
+            "font_style": "italic"
+          },
+          "keyword": {
+            "color": "#A33B45"
+          },
+          "punctuation": {
+            "color": "#434343"
+          },
+          "string": {
+            "color": "#989898"
+          },
+          "variable": {
+            "color": "#B1BAC9",
+            "font_style": "italic"
+          },
+          "property": {
+            "color": "#B1BAC9",
+            "font_style": "italic"
+          },
+          "variable.special": {
+            "color": "#B1BAC9"
+          },
+          "variable.parameter": {
+            "color": "#B1BAC9"
+          },
+          "parameter": {
+            "color": "#B1BAC9"
+          }
+        },
+        "players": [
+          {
+            "cursor": "#A33B45",
+            "background": "#A33B45",
+            "selection": "#81717126"
+          }
+        ],
+        "accents": [
+          "#A33B45"
+        ]
+      }
+    }
+  ]
+}
