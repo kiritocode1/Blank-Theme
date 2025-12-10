@@ -5,6 +5,21 @@
 
 A theme for Visual Studio Code with a focus on simplicity and readability.
 
+## Now available for Zed Editor!
+
+![Blank Theme Zed](zed.png)
+
+We have ported the Blank Theme to Zed! experience the same elegance with high performance.
+See [README-Zed.md](README-Zed.md) for installation instructions.
+
+
+
+## Now available in Antigravity!
+
+![Antigravity Showcase](antigravity.png)
+
+Experience the future of coding with Blank Theme in Antigravity.
+
 # Blank Moonlight (Preferred)
 
 ![moonlight](./logo/theme/moonlight.png)
@@ -28,6 +43,9 @@ A theme for Visual Studio Code with a focus on simplicity and readability.
 - Support for multiple file types
 - Support for multiple file icons
 - Support for multiple file extensions
+
+
+Experience the future of coding with Blank Theme in Antigravity.
 
 ## Installation
 
