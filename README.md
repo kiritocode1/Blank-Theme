@@ -89,3 +89,7 @@ The theme supports the following color schemes:
 | Blank Monochrome | A monochrome theme with a focus on simplicity and readability |
 | Blank Moonlight | A theme with a focus on readability and contrast |
 | Blank Ghibli | A theme with a cozy and nostalgic feel |
+
+
+
+works best with [Symbols file icon theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) , open vsx version [here](https://open-vsx.org/extension/castrogusttavo/symbols)
