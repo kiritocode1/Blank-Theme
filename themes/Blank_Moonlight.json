@@ -10,7 +10,7 @@
         "background": "#000000",
         "editor.background": "#000000",
         "editor.foreground": "#868690",
-        "elevated_surface.background": "#111216",
+        "elevated_surface.background": "#000000",
         "surface.background": "#000000",
         "panel.background": "#000000",
         "terminal.background": "#000000",
@@ -30,7 +30,7 @@
         "icon.accent": "#ffbb88",
         "status_bar.background": "#000000",
         "title_bar.background": "#0F1014",
-        "title_bar.inactive_background": "#111216",
+        "title_bar.inactive_background": "#000000",
         "tab_bar.background": "#0000",
         "toolbar.background": "#0F1014",
         "tab.active_background": "#817c9c14",
@@ -47,7 +47,7 @@
         "search.match_background": "#817c9c4d",
         "editor.document_highlight.read_background": "#817c9c26",
         "editor.document_highlight.write_background": "#817c9c26",
-        "editor.document_highlight.bracket_background": "#0000",
+        "editor.document_highlight.bracket_background": "#000000",
         "conflict": "#f58ee0",
         "created": "#c58fff",
         "deleted": "#575861",
@@ -104,7 +104,7 @@
             "color": "#c58fff"
           },
           "attribute": {
-            "color": "#fdfdfe",
+            "color": "#ffbb88",
             "font_style": "italic"
           },
           "keyword": {
@@ -121,10 +121,13 @@
             "font_style": "italic"
           },
           "property": {
-            "color": "#868690",
+            "color": "#ffbb88",
             "font_style": "italic"
           },
           "variable.special": {
+            "color": "#868690"
+          },
+          "variable.readonly": {
             "color": "#868690"
           },
           "variable.parameter": {
@@ -139,7 +142,7 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#868690",
+            "color": "#8eb6f5",
             "font_style": null,
             "font_weight": null
           },
