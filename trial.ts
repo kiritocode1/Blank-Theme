@@ -2,6 +2,7 @@
  * Syntax Highlighting Test File
  * This file contains various JavaScript and TypeScript constructs
  * to test editor themes.
+ * @abstract 
  */
 
 // 1. Primitive Types
@@ -67,7 +68,7 @@ class Dog extends Animal {
         this._age = value;
     }
 
-    @logMethod
+
     makeSound(): void {
         console.log(`${this.name} barks!`);
     }

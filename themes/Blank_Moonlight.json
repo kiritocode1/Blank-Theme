@@ -134,10 +134,10 @@
             "color": "#ffffff"
           },
           "parameter": {
-            "color": "#ffffff"
+            "color": "#ffbb88"
           },
           "comment.doc": {
-            "color": "#868690",
+            "color": "#ffffff",
             "font_style": null,
             "font_weight": null
           },
@@ -147,17 +147,17 @@
             "font_weight": null
           },
           "embedded": {
-            "color": "#868690",
+            "color": "#ffffff",
             "font_style": null,
             "font_weight": null
           },
           "emphasis": {
-            "color": "#868690",
+            "color": "#ffffff",
             "font_style": null,
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#868690",
+            "color": "#ffffff",
             "font_style": null,
             "font_weight": null
           },
@@ -227,12 +227,12 @@
             "font_weight": null
           },
           "string.regex": {
-            "color": "#868690",
+            "color": "#8eb6f5",
             "font_style": null,
             "font_weight": null
           },
           "string.special": {
-            "color": "#868690",
+            "color": "#8eb6f5",
             "font_style": null,
             "font_weight": null
           },
@@ -262,7 +262,7 @@
             "font_weight": null
           },
           "variable.member": {
-            "color": "#868690",
+            "color": "#ffffff",
             "font_style": null,
             "font_weight": null
           },
